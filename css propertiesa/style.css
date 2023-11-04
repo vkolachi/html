@@ -1,0 +1,48 @@
+#colorname{
+    color: rgb(208, 255, 0);
+    text-align: justify;
+}
+#rgb{
+    color: rgb(208, 255, 0);
+    text-align: right;
+}
+#rgba{
+    color: rgba(90, 160,90, 1);
+    text-align: left;
+}
+#hsl{
+    color:hsl(0, 100%, 49%);
+    text-align: center;
+}
+#hexcode{
+    color: #cc83a9;
+    /* line-height: 1000px; */
+}
+#textdecoration{
+    text-decoration: none;
+}
+#textdecoration-underline{
+    text-decoration: red underline;
+}
+#textdecoration-overline{
+    text-decoration: overline;
+}
+#textdecoration-line_through{
+    text-decoration: blue line-through;
+}
+#text_transform-upper{
+    text-transform: uppercase;
+}
+#text_transform-lower{
+    text-transform: lowercase;
+}
+#text_transform-capit{
+    text-transform: capitalize;
+}
+#zz{
+    text-shadow: -10px -10px 3px rgb(255, 0, 0);
+}
+/* glow effect
+#zz{
+    text-shadow: 0px 0px 20px ;
+} */
