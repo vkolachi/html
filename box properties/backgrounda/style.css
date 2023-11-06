@@ -1,0 +1,14 @@
+#eg1{
+    width: 500px ;
+    height: 300px;
+    /* background-color: blueviolet; */
+    
+    background-image:url(https://img.freepik.com/free-vector/cartoon-frog-night-forest-wild-funny-toad_107791-11548.jpg?w=740&t=st=1699204641~exp=1699205241~hmac=1c4f3b6cc3b8c4b9578ad9e4ca8736e00e46adad58aa05890a6a50309470839b) ;
+    /* background-size: contain; */
+    /* background-size:cover; */
+    background-size: 100px  100px;
+    background-repeat:no-repeat;
+    border-color: black;
+    border-style: dotted;
+    background-position: right;
+}   
