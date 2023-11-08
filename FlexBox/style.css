@@ -1,0 +1,56 @@
+.box{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.red{
+    background-color: red;
+    height: 100px;
+    order: 2;
+    flex: 1;
+    
+}
+.green{
+    background-color: green;
+    height: 40px;
+    order: 1;
+    flex: 2;
+    
+}
+.yellow{
+    background-color: yellow;
+    height: 80px;
+    order: 4;
+    flex: 2;
+  
+}
+.blue{
+    background-color: blue;
+    height: 120px;
+    order: 3;
+    flex: 5;
+}
+#container{
+    display: flex;
+    height: 500px;
+    border: 5px solid rebeccapurple;
+    /* flex-direction: column-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: row; */
+    /* flex-direction: row-reverse; */
+    /* border: 10px solid green; */
+    /* flex-wrap:wrap-reverse; */
+    /* justify-content: right; */
+    /* justify-content: left; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+    /* align-items: center; */
+    justify-content: center;
+    box-sizing: border-box;
+    /* align-items:  flex-end; */
+    align-items: stretch;
+  
+}
